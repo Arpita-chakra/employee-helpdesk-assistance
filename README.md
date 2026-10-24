@@ -1,4 +1,4 @@
-# Employee Helpdesk Assistant
+# Employee Helpdesk Assistant..
 
 A small Python learning project that explores answering employee leave-policy questions with local language models, LangChain, and Chroma. The policy content is in `leave_policy.txt`; later lessons retrieve relevant policy passages before answering.
 
