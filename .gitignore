@@ -1,0 +1,28 @@
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+.venv_old/
+venv/
+env/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local vector database
+chroma_db/
+
+# Test, type-checker, and linter caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs and OS-generated files
+*.log
+.DS_Store
+Thumbs.db
